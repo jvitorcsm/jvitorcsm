@@ -1,4 +1,6 @@
-## Bem-vindo(a) 😁
+## Welcome!
+## 💼 - Support Analyst at Alix Tecnologia Corporativa.
+## 🎮 - My free time is spent on video games, books, the gym and adventures.
 
  <div>
    <a href="https://github.com/jvitorcsm">
