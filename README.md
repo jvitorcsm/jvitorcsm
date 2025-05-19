@@ -1,5 +1,6 @@
 ## Welcome!
 💼 - Support Analyst at Alix Tecnologia Corporativa.
+<br>
 🎮 - My free time is spent on video games, books, the gym and adventures.
 
  <div>
