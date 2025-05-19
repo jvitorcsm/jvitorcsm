@@ -1,7 +1,8 @@
 ## Welcome!
-💼 - Support Analyst at Alix Tecnologia Corporativa.
+👨‍💻 - I work at Alix Tecnologia as a Support Analyst.
 <br>
-🎮 - My free time is spent on video games, books, the gym and adventures.
+🎮 - My free time is spent on lots of programming, video games, books, gym and adventures.
+
 
  <div>
    <a href="https://github.com/jvitorcsm">
