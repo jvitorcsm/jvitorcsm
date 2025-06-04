@@ -13,12 +13,15 @@
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joaovitorcarvalhosavimondo@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/jvitorcsm" alt="LinkedIn"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/jvitorcsm" alt="Instagram"/></a>
+  <a href="mailto:joaovitorcarvalhosavimondo@gmail.com" title="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/jvitorcsm" title="LinkedIn" target="_blank">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://instagram.com/jvitorcsm" title="Instagram" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
     
 <div style="display: inline_block"><br>
