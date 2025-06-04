@@ -1,14 +1,24 @@
 ## Welcome!
-👨‍💻 - I work at Alix Tecnologia as a Support Analyst.
-<br>
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<p align="left"> 
+👨‍💻 - I work at Alix Tecnologia as a Support Analyst.**
 🎮 - My free time is spent on lots of programming, video games, books, gym and adventures.
+</p>
 
+<p align="left">
+  👽 Linguagens: **JavaScript, SQL, HTML, CSS.**
+</p>
 
- <div>
-   <a href="https://github.com/jvitorcsm">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jvitorcsm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitorcsm&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=joaovitorcarvalhosavimondo@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/jvitorcsm" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/jvitorcsm" alt="Instagram"/></a>
+</p>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
@@ -20,15 +30,4 @@
   <img align="center" alt="Supabase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg"/>
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"/>
   <img align="center" alt="Postman" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"/>
-</div>
- 
-<br>
- 
-### Redes sociais a baixo:
- 
-<div> 
-  <!--<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
-  <a href="https://instagram.com/jvitorcsm" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaovitorcarvalhosavimondo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jvitorcsm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
