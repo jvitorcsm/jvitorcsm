@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  👽 Linguagens: **JavaScript, SQL, HTML, CSS.**
+  👽 Languages: **JavaScript, SQL, HTML, CSS.**
 </p>
 
 <p align="left">
