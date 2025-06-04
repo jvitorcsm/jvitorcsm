@@ -3,7 +3,8 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-👨‍💻 - I work at Alix Tecnologia as a Support Analyst.**
+👨‍💻 - I work at Alix Tecnologia as a Support Analyst.
+<Br>
 🎮 - My free time is spent on lots of programming, video games, books, gym and adventures.
 </p>
 
