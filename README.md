@@ -1,7 +1,7 @@
 <br />
 <div align="center">
 ##Welcome!
-  
+<br />
 [![X](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://x.com/jvitorcsm)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://instagram.com/jvitorcsm)
 [![Twitch](https://img.shields.io/badge/Twitch-black?style=flat-square&logo=twitch)](https://twitch.tv/jvitorcsm)
