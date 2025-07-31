@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Vitor;I+study+analysis+and+systems+development+at+IFSC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=423A5E&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+João+Vitor;I+study+analysis+and+systems+development+at+IFSC;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
 <div align="center">
   
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jvitorcsm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="João Vitor github stats"/>
+  <img width="465px" height="200px" src="https://github-readme-stats.vercel.app/api?username=jvitorcsm&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="João Vitor github stats"/>
   
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitorcsm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="465px" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitorcsm&layout=compact&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" />
   
 </div>
 
