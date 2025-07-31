@@ -2,10 +2,10 @@
 
 <div align="center">
   
-  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=jvitorcsm&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" alt="João Vitor github stats"/>
+  <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=jvitorcsm&show_icons=true&count_private=true&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&include_all_commits=true&theme=transparent" alt="João Vitor GitHub Stats"/>
   
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitorcsm&layout=compact&hide_border=true&title_color=6474B9&icon_color=6474B9&text_color=937CD5&bg_color=0a0c10&hide=contribs&thme=transparent&include_all_commits=true&rank_icon=github" />
-  
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitorcsm&layout=compact&hide_border=true&title_color=6474B9&text_color=937CD5&bg_color=0a0c10&theme=transparent" />
+
 </div>
 
 <div align="center">
