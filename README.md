@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=423A5E&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+João+Vitor+👋;Dev+student+at+SENAI+💻;Welcome+to+my+GitHub!+😎)](https://git.io/typing-svg)
 
 <div align="center">
-  
-<br/>
 
 [![X](https://img.shields.io/badge/Twitter-black?style=flat-square&logo=x)](https://x.com/jvitorcsm)
 [![Instagram](https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram)](https://instagram.com/jvitorcsm)
